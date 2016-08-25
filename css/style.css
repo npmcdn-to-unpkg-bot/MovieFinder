@@ -1,0 +1,20 @@
+.container {
+    width: 300px;
+}
+
+.search-box {
+    width: 98%;
+}
+
+.movie-selection {
+    width: 100%;
+}
+
+.poster {
+margin-top: 0.4em;
+width: 100%;
+}
+
+.hidden {
+    display: none;
+}
